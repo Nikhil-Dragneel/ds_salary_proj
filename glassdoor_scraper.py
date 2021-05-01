@@ -3,6 +3,24 @@
 Created on Thu Apr 22 17:49:21 2021
 
 @author: Nikhil DragNeel
+
+    @original author: Ömer Sakarya , Oct 15, 2019
+    git : https://github.com/arapfaik/scraping-glassdoor-selenium
+    original tutorial: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+    
+    Disclaimer: I don't own the copyrights of the code , It was written and coded as
+                followed on the youtube channel mentioned below.
+    Tutorial followed(youtube: KenJee): https://www.youtube.com/watch?v=GmW4F6MHqqs&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+                
+        P.S:    the code has been modified according to the updated structure of the website for webscraping, 
+                there are fields/data that I couldn't able to find, for reading purposes the old lines of 
+                code is commented and updated code added underneath for better understanding. Please take 
+                a note that I have changed the names of the column and files according to my need, if you 
+                are copy pasting this code you have to look for syntax errors in names of files and
+                data-columns that are used in tutorial. 
+                Also for the purpose of error checking and debuging, many print statements were added by me.
+                I will remove those later but if found please ignore those.
+    
 """
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
@@ -27,7 +45,8 @@ def get_jobs(keyword, num_jobs, verbose,path,slp_time):
     driver = webdriver.Chrome(executable_path=path, options=options)
     driver.set_window_size(1120, 1000)
     
-    url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=N&locId=115&jobType="
+    url = "https://www.glassdoor.co.in/Job/india-data-scientist-jobs-SRCH_IL.0,5_IN115_KO6,20.htm"
+    #url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=N&locId=115&jobType="
     # url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword='+ keyword +'&includeNoSalaryJobs=false&radius=100'
     #url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + keyword + '"&locT=C&locId=1147401&locKeyword=San%20Francisco,%20CA&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=false&radius=100&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&seniorityType=all&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0'
     driver.get(url)
@@ -104,9 +123,12 @@ def get_jobs(keyword, num_jobs, verbose,path,slp_time):
                         #print('worked 16')# job_title = driver.find_element_by_xpath('.//div[contains(@class, "title")]').text
                         job_title = driver.find_element_by_xpath('//*[@id="MainCol"]//li['+ str(currentJoblist + 1) +']//a[@data-test="job-link"]').text
                         #print('worked 17')
+                        #driver.find_element_by_xpath('//*[@id="JobDescriptionContainer"]/div[2]').click()
+                        #print('worked 18')
                         job_description = driver.find_element_by_xpath('.//div[@class="jobDescriptionContent desc"]').text
+                        #job_description = driver.find_element_by_xpath('//*[@id="JobDesc1007031704137"]').text
                         
-                        #print('worked 18')# job_function is an additional information not included in previous code
+                        # job_function is an additional information not included in previous code
                         #job_function = driver.find_element_by_xpath('//*[@id="JDCol"]//strong[text()[1]="Job Function"]//following-sibling::*').text
                         job_function = driver.find_element_by_xpath('//*[@id="JDCol"]/div/article/div/div[1]/div/div/div[3]/div[2]/div[2]/span').text
                         #print('worked 19')
@@ -133,7 +155,7 @@ def get_jobs(keyword, num_jobs, verbose,path,slp_time):
                 if verbose:
                     print("Job Title: {}".format(job_title))
                     print("Salary Estimate: {}".format(salary_estimate))
-                    print("Job Description: {}".format(job_description[:500]))
+                    print("Job Description: {}".format(job_description[:1000]))
                     print("Rating: {}".format(rating))
                     print("Company Name: {}".format(company_name))
                     print("Location: {}".format(location))
