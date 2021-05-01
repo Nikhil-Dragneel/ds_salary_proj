@@ -43,7 +43,7 @@ df['avg_salary'] = (df.min_salary + df.max_salary) / 2
  
 #C)state field ##NO NEED FOR THIS
 ##df['job_state'] = df['Location'].apply(lambda x: x.split(',')[1]) # whenever it's says 'KeyError:' it refers to the column_name /dictionary name which is case sensitive like in this case is 'Location' != 'location'
-##df.job_state.value_counts()
+#df.Location.value_counts()
 
 # df['same_state'] = df.apply(lambda x: 1 if x.Location == x.Headquarters else 0, axis = 1)
 # ^^^^^^ this line of code will not comply with this datasest as there were no columen name"Headquarters" exist in dataset
