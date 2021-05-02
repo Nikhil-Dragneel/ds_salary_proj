@@ -25,6 +25,7 @@ df = df[df['Salary Estimate'] != '-1']
 
 # making value of "salary Estimate" column numerical ---------------------2
 salary = df["Salary Estimate"].apply(lambda x: x.split('(')[0]) # where x="[Salry Estimate ]" value
+#salary = df["Salary Estimate"].apply(lambda x: x.replace('(Glassdoor Est.)','0'))
 
 minus_Kd = salary.apply(lambda x: x.replace('K','').replace('₹',''))
 
@@ -39,11 +40,14 @@ df['avg_salary'] = (df.min_salary + df.max_salary) / 2
 #B)Company name text only
 ##df['company_txt'] = df.apply(lambda x: x['Company Name'] if x['Rating'] <0 else x['Company Name'][:-3], axis = 1) #<------learn about "axis = 1"
 #`^^^^^ this line of code will detect company-name with column rating value greater than 0 and omit the last 3 characters
- #` from the 'company name' column (the value with rating if any) and store them in new column of name 'company txt'
+df['company_txt'] = df['Company Name']
+#` from the 'company name' column (the value with rating if any) and store them in new column of name 'company txt'
  
 #C)state field ##NO NEED FOR THIS
 ##df['job_state'] = df['Location'].apply(lambda x: x.split(',')[1]) # whenever it's says 'KeyError:' it refers to the column_name /dictionary name which is case sensitive like in this case is 'Location' != 'location'
-#df.Location.value_counts()
+df['job_state'] = df['Location']
+df.Location.value_counts()
+df.job_state.value_counts()
 
 # df['same_state'] = df.apply(lambda x: 1 if x.Location == x.Headquarters else 0, axis = 1)
 # ^^^^^^ this line of code will not comply with this datasest as there were no columen name"Headquarters" exist in dataset
