@@ -1,0 +1,119 @@
+avg_salary,Rating,Size,Type of ownership,Industry,Sector,Revenue,job_state,age,python_yn,R_yn,spark,aws,excel,job_simp,seniority,desc_len
+485,4.2,10000+ Employees,Company - Private,Biotech & Pharmaceutical,Biotech & Pharmaceutical,$10+ billion (USD),Bangalore,158,0,0,0,0,0,data scientist,na,807
+570,-1,Unknown,Company - Public,-1,-1,Unknown / Non-Applicable,Bangalore,-1,1,0,0,1,0,data scientist,na,941
+396,4,10000+ Employees,Company - Public,Insurance Agencies & Brokerage,Insurance,$10+ billion (USD),Bangalore,158,0,1,0,0,1,data scientist,na,2375
+489,3.8,10000+ Employees,Company - Public,IT Service,Information Technology,$2 to $5 billion (USD),Calcutta,24,0,0,0,0,0,analyst,na,609
+690.5,4.4,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),Bangalore,38,0,0,0,0,0,data engineer,na,392
+450,4.3,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),Bangalore,37,0,1,0,0,0,data engineer,na,3134
+638,4.3,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),Bangalore,29,0,1,0,1,0,data engineer,na,683
+804,3.8,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Hyderābād,43,0,0,0,0,0,data engineer,na,1113
+640.5,4.1,501 to 1000 Employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Bangalore,14,0,1,0,0,0,data scientist,na,1216
+468,4.2,10000+ Employees,Company - Public,IT Service,Information Technology,Unknown / Non-Applicable,Bangalore,21,0,0,0,0,0,data engineer,na,208
+286.5,4.4,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Hyderābād,46,0,0,0,0,0,data scientist,na,1061
+467,3.5,201 to 500 Employees,Company - Private,Consulting,Business Service,Unknown / Non-Applicable,Ahmedabad,14,0,0,0,0,0,data scientist,na,900
+488.5,3.9,10000+ Employees,Company - Private,Architectural & Engineering Service,Business Service,$10+ billion (USD),South Andaman,123,0,0,0,0,0,mle,na,646
+467,3.8,10000+ Employees,Company - Public,IT Service,Information Technology,$10+ billion (USD),Bangalore,40,0,0,0,0,0,na,na,1412
+764,3.8,51 to 200 Employees,Company - Private,IT Service,Information Technology,Unknown / Non-Applicable,Bangalore,17,0,0,0,0,0,data scientist,senior,511
+571.5,3.1,51 to 200 Employees,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD),Pune,9,0,0,0,0,0,data scientist,na,1361
+745,3.7,10000+ Employees,Company - Public,Banks & Building Society,Finance,$10+ billion (USD),Bangalore,169,0,0,0,0,1,data scientist,na,2465
+860,3.8,1001 to 5000 Employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,Pune,20,0,0,0,0,0,data scientist,na,521
+835.5,4.2,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,Bangalore,6,0,0,0,0,0,data scientist,na,663
+608,4.3,201 to 500 Employees,Company - Private,IT Service,Information Technology,Unknown / Non-Applicable,Hyderābād,9,0,0,0,1,0,na,na,935
+580,3.6,51 to 200 Employees,Unknown,Staffing & Outsourcing,Business Service,Unknown / Non-Applicable,Mumbai,10,0,0,0,0,0,data scientist,na,391
+590,4.3,201 to 500 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),Coimbatore,16,1,0,0,0,1,data scientist,na,1552
+467,3.5,201 to 500 Employees,Company - Private,Consulting,Business Service,Unknown / Non-Applicable,Ahmedabad,14,0,0,0,0,0,data scientist,na,900
+722,3.2,10000+ Employees,Company - Private,Staffing & Outsourcing,Business Service,Unknown / Non-Applicable,Bangalore,64,0,0,0,0,0,data scientist,na,122
+571,4.4,51 to 200 Employees,Company - Private,Lending,Finance,Unknown / Non-Applicable,Chennai,7,0,0,0,0,0,analyst,jr,576
+450,4.3,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),Bangalore,37,1,1,0,1,0,data engineer,na,5024
+907,4,10000+ Employees,Company - Private,Consulting,Business Service,$5 to $10 million (USD),Bangalore,58,0,0,0,0,0,data scientist,senior,171
+500,3.7,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Bangalore,44,1,1,1,0,1,data scientist,na,5278
+640.5,4.1,501 to 1000 Employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Bangalore,14,0,1,0,0,0,data scientist,na,1216
+567,3.7,10000+ Employees,Company - Public,IT Service,Information Technology,$10+ billion (USD),Bangalore,54,0,0,0,0,0,data scientist,na,1240
+794,4,1001 to 5000 Employees,Company - Private,Internet,Information Technology,$1 to $2 billion (USD),Mumbai,23,0,0,0,0,0,data scientist,na,1208
+940,3.7,10000+ Employees,Company - Public,Consulting,Business Service,$2 to $5 billion (USD),Pune,185,0,0,0,0,1,data scientist,na,623
+493,5,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Service,Unknown / Non-Applicable,Pune,1,1,1,0,0,0,data scientist,na,756
+586.5,4.2,1 to 50 Employees,Company - Private,IT Service,Information Technology,Unknown / Non-Applicable,Jaipur,9,0,0,0,0,0,data scientist,na,618
+927.5,3.8,10000+ Employees,Company - Public,IT Service,Information Technology,$2 to $5 billion (USD),Bangalore,24,0,1,0,0,0,data scientist,na,734
+679.5,4.9,201 to 500 Employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,Bangalore,8,0,0,0,0,1,analyst,na,1442
+714.5,4.4,201 to 500 Employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,Chennai,42,0,0,0,0,0,data scientist,na,846
+476.5,4,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,Hyderābād,17,0,1,1,1,0,data engineer,senior,3296
+614.5,3.5,5001 to 10000 Employees,Company - Public,-1,-1,Unknown / Non-Applicable,Mumbai,-1,0,0,0,0,0,data engineer,na,1041
+456,-1,-1,-1,-1,-1,-1,Jaipur,-1,0,0,0,0,0,data scientist,na,1074
+655,3.7,201 to 500 Employees,Company - Private,IT Service,Information Technology,$100 to $500 million (USD),Ahmedabad,13,1,0,0,0,1,data scientist,na,1240
+865,4.2,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),Bangalore,39,0,1,0,0,0,analyst,na,1175
+710,3.4,5001 to 10000 Employees,Company - Public,Aerospace & Defence,Aerospace & Defence,$1 to $2 billion (USD),Hyderābād,70,0,0,0,0,0,data scientist,na,883
+740.5,4.2,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,Bangalore,82,0,0,0,0,0,data scientist,na,857
+537,4.1,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,Bangalore,16,0,0,0,0,0,data scientist,na,897
+392,4.1,201 to 500 Employees,Company - Private,Financial Transaction Processing,Finance,$5 to $10 million (USD),Pune,9,0,0,0,0,0,data scientist,na,1042
+692,3.7,10000+ Employees,Company - Public,Food & Drink Manufacturing,Manufacturing,$5 to $10 billion (USD),Mumbai,115,0,0,0,0,0,data scientist,na,799
+837,4.2,5001 to 10000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD),Bangalore,36,0,0,0,0,0,data scientist,na,618
+851,3.7,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Bangalore,136,1,1,0,0,0,data scientist,senior,1649
+361,4.3,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Hyderābād,27,1,1,0,1,1,data engineer,na,2273
+1037,3.8,10000+ Employees,Subsidiary or Business Segment,Banks & Building Society,Finance,$10+ billion (USD),Bangalore,222,0,0,0,0,0,data scientist,senior,915
+561,4.4,1 to 50 Employees,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,Mumbai,6,0,0,0,0,0,data engineer,na,429
+669,4.4,10000+ Employees,Company - Public,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable,Bangalore,1,0,0,0,0,0,data scientist,senior,802
+860.5,4.5,201 to 500 Employees,Company - Private,IT Service,Information Technology,Unknown / Non-Applicable,Chennai,12,0,0,0,0,0,data scientist,na,565
+517.5,5,1 to 50 Employees,Company - Public,-1,-1,Less than $1 million (USD),Nāgpur,6,1,0,0,1,0,mle,na,556
+357.5,3.8,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Service,Unknown / Non-Applicable,Bangalore,-1,0,0,0,0,0,data engineer,na,100
+405,4,10000+ Employees,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$5 to $10 billion (USD),Hyderābād,5,0,0,0,0,0,data scientist,na,688
+537,4.1,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,Bangalore,16,0,0,0,0,0,data scientist,na,897
+545,3.6,201 to 500 Employees,Company - Private,Security Service,Business Service,Unknown / Non-Applicable,Mumbai,-1,0,0,0,0,0,data scientist,na,587
+200,4.3,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Bangalore,12,0,0,0,0,0,na,senior,693
+629.5,4.5,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Bangalore,23,1,1,0,0,0,data scientist,na,1365
+547.5,-1,Unknown,Company - Private,-1,-1,Unknown / Non-Applicable,Bangalore,-1,0,0,0,0,0,data scientist,na,835
+627.5,3.7,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Bangalore,44,1,1,1,1,1,data scientist,na,7514
+750,4.5,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),Bangalore,7,0,0,0,0,0,data scientist,na,864
+599.5,4.2,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),Cochin,98,0,0,0,0,0,data scientist,jr,681
+403.5,2.7,10000+ Employees,Company - Public,IT Service,Information Technology,$1 to $2 billion (USD),Pune,4,1,0,0,1,1,data scientist,na,782
+386,3.8,10000+ Employees,Company - Public,Banks & Building Society,Finance,$10+ billion (USD),Mumbai,151,0,0,0,0,0,data scientist,na,600
+676.5,3.9,5001 to 10000 Employees,Company - Public,Chemical Manufacturing,Manufacturing,$5 to $10 billion (USD),Mumbai,51,0,0,0,0,0,data engineer,na,589
+510,4.1,10000+ Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),Gurgaon,178,0,0,0,0,0,data scientist,na,913
+450,4.5,51 to 200 Employees,Company - Private,IT Service,Information Technology,Unknown / Non-Applicable,SAS Nagar,13,0,0,0,0,0,mle,na,622
+440,4.3,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Service,Unknown / Non-Applicable,Noida,10,0,0,0,0,0,data scientist,na,461
+458,4.6,10000+ Employees,Company - Private,Staffing & Outsourcing,Business Service,$500 million to $1 billion (USD),Indore,13,0,0,0,0,0,data engineer,na,909
+784,4.1,1001 to 5000 Employees,Company - Private,Internet,Information Technology,$100 to $500 million (USD),Pune,17,1,1,0,0,0,data engineer,na,891
+425,5,1 to 50 Employees,Company - Private,-1,-1,Unknown / Non-Applicable,Gurgaon,-1,0,0,0,0,0,analyst,na,832
+872,4.2,10000+ Employees,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD),Bangalore,171,0,1,0,0,0,data engineer,na,1583
+442.5,4.1,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),Mumbai,45,0,1,0,0,0,data scientist,na,616
+732,-1,Unknown,Company - Private,-1,-1,Unknown / Non-Applicable,Ahmedabad,-1,0,0,0,0,0,data scientist,na,577
+662.5,4.7,51 to 200 Employees,Company - Private,-1,-1,Unknown / Non-Applicable,Chennai,-1,1,0,0,0,0,data scientist,na,239
+545,3,51 to 200 Employees,Company - Private,-1,-1,Unknown / Non-Applicable,Bangalore,28,1,0,0,0,0,data scientist,na,1328
+449.5,3.8,10000+ Employees,Company - Public,Oil & Gas Service,"Oil, Gas, Energy & Utility",$10+ billion (USD),Pune,95,0,0,0,0,0,data scientist,na,1001
+743,4.1,10000+ Employees,Company - Public,Healthcare Services & Hospital,Healthcare,$2 to $5 billion (USD),Pune,34,0,0,0,0,0,data engineer,na,637
+619,2.3,501 to 1000 Employees,Unknown,Consulting,Business Service,Unknown / Non-Applicable,Bangalore,-1,1,0,0,0,0,data scientist,na,257
+575,2.6,201 to 500 Employees,Company - Private,Internet,Information Technology,$100 to $500 million (USD),Hyderābād,16,0,0,0,0,0,data engineer,na,1229
+916.5,4.1,1001 to 5000 Employees,Company - Private,Consulting,Business Service,$500 million to $1 billion (USD),Gurgaon,32,1,1,0,0,0,data scientist,na,2782
+916.5,4.1,1001 to 5000 Employees,Company - Private,Consulting,Business Service,$500 million to $1 billion (USD),Gurgaon,32,1,1,0,0,0,data scientist,na,2782
+583,4,10000+ Employees,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$5 to $10 billion (USD),Hyderābād,5,0,0,0,0,0,data engineer,na,512
+692,4,1001 to 5000 Employees,Company - Private,IT Service,Information Technology,$100 to $500 million (USD),Chennai,25,0,0,0,0,0,data scientist,na,384
+352,4.4,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Bangalore,46,0,0,0,0,0,na,na,1330
+675,2.9,1001 to 5000 Employees,Company - Private,Security Service,Business Service,Unknown / Non-Applicable,Pune,3,0,1,1,0,0,data scientist,na,4174
+683,4.2,51 to 200 Employees,Company - Private,Wholesale,Business Service,Unknown / Non-Applicable,Panchkula,-1,0,0,1,1,0,data engineer,na,384
+629.5,4.2,10000+ Employees,Company - Public,Energy,"Oil, Gas, Energy & Utility",$10+ billion (USD),Bangalore,185,0,0,0,0,0,data scientist,na,1016
+384.5,3.6,1001 to 5000 Employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Bangalore,-1,0,0,0,0,0,mle,na,542
+200,4.3,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Bangalore,12,0,0,0,0,0,na,senior,713
+894.5,3.7,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),Bangalore,18,0,1,0,0,0,data engineer,na,926
+604,4.5,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,Bangalore,9,0,0,0,0,0,data engineer,na,655
+592,3.7,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Hyderābād,44,1,1,0,0,1,data engineer,na,5402
+594,3.7,501 to 1000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),Bangalore,8,0,0,0,0,0,data scientist,na,623
+675,4.1,1 to 50 Employees,Company - Private,IT Service,Information Technology,Unknown / Non-Applicable,Bangalore,6,1,0,0,0,0,data scientist,na,1086
+494,4.3,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Bangalore,12,0,0,0,0,0,data engineer,na,731
+597.5,4.2,Unknown,Company - Public,-1,-1,Unknown / Non-Applicable,Bangalore,-1,0,0,0,0,0,data scientist,na,602
+487,3.6,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),Bangalore,25,0,0,0,0,0,data scientist,na,798
+515.5,4.3,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Bangalore,12,0,0,0,0,0,data engineer,senior,682
+578.5,3.2,10000+ Employees,Company - Private,Staffing & Outsourcing,Business Service,$500 million to $1 billion (USD),Gurgaon,21,0,0,0,0,0,data engineer,na,809
+487,3.6,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),Bangalore,25,0,0,0,0,0,data scientist,na,798
+400,4.3,1001 to 5000 Employees,Company - Private,Education Training Service,Education,$10 to $25 million (USD),Bangalore,8,0,0,0,0,0,data scientist,na,557
+615.5,4.2,1001 to 5000 Employees,Company - Public,Healthcare Services & Hospital,Healthcare,$100 to $500 million (USD),Bangalore,5,0,0,0,0,0,data engineer,na,818
+826,4,10000+ Employees,Company - Public,Transport Equipment Manufacturing,Manufacturing,$10+ billion (USD),Gurgaon,-1,0,0,0,0,0,data scientist,na,213
+923,4.4,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Hyderābād,46,0,0,0,0,0,data engineer,na,1237
+683,4.2,51 to 200 Employees,Company - Private,Consulting,Business Service,Unknown / Non-Applicable,Bangalore,6,0,1,0,0,0,data scientist,na,873
+450.5,4.4,10000+ Employees,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Hyderābād,17,0,0,0,0,0,data engineer,na,798
+675,3.9,1001 to 5000 Employees,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),New Delhi,52,0,0,0,0,0,data scientist,na,1148
+679.5,-1,-1,-1,-1,-1,-1,New Delhi,-1,0,0,0,0,0,data scientist,na,443
+584.5,4,10000+ Employees,Company - Private,IT Service,Information Technology,$5 to $10 billion (USD),Thiruvananthapuram,22,0,0,0,0,0,data scientist,jr,967
+524,4.2,1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,Chennai,9,0,0,0,0,0,data engineer,na,739
+639,3.8,51 to 200 Employees,Company - Private,IT Service,Information Technology,Unknown / Non-Applicable,Bangalore,17,1,1,1,1,0,data engineer,na,1234
+560.5,5,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Service,Less than $1 million (USD),Chennai,1,1,0,1,1,0,data engineer,na,761
+675,3.8,51 to 200 Employees,Company - Private,IT Service,Information Technology,Unknown / Non-Applicable,Bangalore,17,1,1,0,0,0,data scientist,na,514
+547,3.8,1 to 50 Employees,Company - Private,-1,-1,Unknown / Non-Applicable,Mumbai,-1,0,0,0,0,0,data scientist,na,87
